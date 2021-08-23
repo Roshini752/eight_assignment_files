@@ -5,8 +5,6 @@
 int main()
 {
     FILE *fp;
-    char path[100];
-
     char ch;
     int characters = 0, words =0 , lines =0;
     fp = fopen("rosh.txt", "r"); //to open a file
