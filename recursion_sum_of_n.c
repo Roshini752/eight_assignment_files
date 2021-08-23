@@ -1,7 +1,7 @@
  //to find sum of all natural numbers between 1 to n using recursion.
 
 #include<stdio.h>
-int sum(int n)
+int sum(int n)   
 {
     
     if(n!=0)
