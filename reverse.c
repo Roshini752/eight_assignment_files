@@ -1,5 +1,5 @@
 //to find reverse of any number using recursion.
-
+   
 #include<stdio.h>
 int rev=0;
 int reverse(int n) //567 56 5
