@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 int main()
-{
+{  
     FILE *fp;
     char ch;
     int characters = 0, words =0 , lines =0;
