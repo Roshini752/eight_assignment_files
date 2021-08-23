@@ -1,6 +1,6 @@
 //to copy contents from one file to another file.
 #include<stdio.h>   // fgets(variable to store,length,fp)
-int main()
+int main()   
 {
     FILE *fp;
     FILE *fp2;
